@@ -33,7 +33,7 @@ In the final steps all that was left to be done was to cut out the cross alignme
 
 Note that I created two versions of the main body. One with a rail guide and one without. The book had a ~6mm diameter path engraved to make the train move only along the designated way. The printed version below also includes this guide but one may find it more varied without. Therefore, I decided to make both version. So feel free to create a free standing toy or your own rail system along with it.
 
-In the version 2 of the train I changed the cross cutout of the main body to make it printable completely without supports and increased the radius of the axle holes of the main body to make lower the friction and make it easier to turn the wheels.
+In the [version 2](src/LittleSLv2.FCStd) of the train I changed the cross cutout of the main body to make it printable completely without supports and increased the radius of the axle holes of the main body to lower the friction and make it easier to turn the wheels.
 
 Print and Assembly
 ------------------
@@ -46,7 +46,7 @@ The layer adhesion of the used PLA filament was quite poor and strong warping ef
 
 <img src="img/02-wheels-chimney-cross.JPG" alt="wheels, chimney, cross" width="50%" height="50%"/>
 
-These printed quite well. The cross, however, suffered from its small surface on the print sheet and failed at around 90% height. Later, I reprinted it in black PETG with a raft.
+These printed quite well. The cross, however, suffered from its small surface on the print sheet and failed at around 90% height. Later, I reprinted it in black PETG with a brim.
 
 <img src="img/03-left.JPG" alt="left body" width="50%" height="50%"/>
 
